@@ -131,10 +131,5 @@ POST /plates/recognize-two
     }
   ]
 }
-```
 
----
-
-## 📄 License
-MIT License
 
