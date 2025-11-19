@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="614f4c05-a1d7-4970-80b6-50eca4826a49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/6.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/test1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/best_ocr.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/best_yolo_mask.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="614f4c05-a1d7-4970-80b6-50eca4826a49" name="Changes" comment="number plate recognition" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,22 +93,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763545529586</updated>
-      <workItem from="1763545530654" duration="183000" />
+      <workItem from="1763545530654" duration="602000" />
     </task>
+    <task id="LOCAL-00001" summary="number plate recognition">
+      <option name="closed" value="true" />
+      <created>1763546229450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763546229450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="number plate recognition">
+      <option name="closed" value="true" />
+      <created>1763546284863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763546284863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="number plate recognition" />
+    <option name="LAST_COMMIT_MESSAGE" value="number plate recognition" />
   </component>
 </project>
