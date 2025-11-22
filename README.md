@@ -120,14 +120,26 @@ POST /plates/recognize-two
       "filename": "image.jpg",
       "success": true,
       "plate": "AA7777AA",
-      "error": null
+      "error": null,
+      "sign": {
+        "found": true,
+        "class_id": 0,
+        "class_name": "no_stop",
+        "confidence": 0.9141
+      }
     },
     {
       "index": 1,
       "filename": "image.jpg",
       "success": true,
       "plate": "AA7777AA",
-      "error": null
+      "error": null,
+      "sign": {
+        "found": true,
+        "class_id": 0,
+        "class_name": "no_stop",
+        "confidence": 0.9141
+      }
     }
   ]
 }
