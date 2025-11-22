@@ -131,5 +131,11 @@ POST /plates/recognize-two
     }
   ]
 }
+```
 
+## 📷 Server API documentation
 
+### Endpoint:
+```
+https://pzjururmgg.eu-west-1.awsapprunner.com/docs
+```
